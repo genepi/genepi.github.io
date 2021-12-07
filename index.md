@@ -8,10 +8,10 @@ layout: home
 # Genepi Innsbruck
 
 
-This site summarizes the main software projects of the [Institute of Genetic Epidemiology](https://genepi.i-med.ac.at/). The focus of our projects is on mitochondrial DNA (mtDNA), Genotype Imputation, genome wide association studies (GWAS) and general frameworks for big data analysis.
+This site summarizes our main software projects. The focus of our projects is on mitochondrial DNA (mtDNA), Genotype Imputation, genome wide association studies (GWAS) and general frameworks for big data analysis.
 {: .fs-6 .fw-300 }
 
-For a list of all projects click [here](http://github.com/genepi/).
+For a list of all projects click [here](http://github.com/genepi/) or visit the [website](https://genepi.i-med.ac.at/) of our institute.
 
 ### mtDNA
 
