@@ -5,6 +5,9 @@
 layout: home
 ---
 
+# Genepi Innsbruck
+
+
 This site summarizes our main software projects. The focus of our projects is on mitochondrial DNA (mtDNA), Genotype Imputation, Genome Wide Association Studies (GWAS) and general frameworks for big data analysis.
 {: .fs-6 .fw-300 }
 
