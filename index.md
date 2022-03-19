@@ -37,7 +37,7 @@ Please contact [Lukas](mailto:lukas.forer@i-med.ac.at) or [Sebastian](mailto:seb
 |Project | About | Reference | Publication |
 |-----|--------------|
 |**PGS Calculation** | Applying polygenic scores (PGS) on imputed genotypes.| [https://github.com/lukfor/pgs-calc](https://github.com/lukfor/pgs-calc) |
-|**GWAS-Regenie**  | A nextflow pipeline to perform whole genome regression modelling using regenie.      | [https://github.com/genepi/gwas-regenie](https://github.com/genepi/gwas-regenie) |
+|**nf-gwas**  | A nextflow pipeline to perform genome-wide association studies using regenie.      | [https://github.com/genepi/nf-gwas](https://github.com/genepi/nf-gwas) |
 
 Please contact [Sebastian](mailto:sebastian.schoenherr@i-med.ac.at) or [Lukas](mailto:lukas.forer@i-med.ac.at) in case of questions.
 
